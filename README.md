@@ -9,7 +9,7 @@ Notably, even the political clusters are not entierley unanimous in their leanin
 
 
 
-Red: One of the more prominent hashtags: 
+RED: One of the more prominent hashtags: 
 #guncontrol, #guncontrolnow, #enoughisenough, #stopmassshooting, #assultweaponban, #secureourschools, #gundlawssavelives
 
 #goplovesgunsmorethanourkids, #gopdoesnotcareifkidsdie, #gopisnottheprolifepartytheyareprodgundeath these all refer to the grand old part, synonymous with the republican party. As this cluster also has hashtags which encourage gun control and ban of weapons, one can assume that those who tend to be critical of the republican party will also be for gun laws. This will often be those who vote democrat due to americas two party system.
@@ -18,25 +18,25 @@ Red: One of the more prominent hashtags:
 
 
 
-Blue: is also a more political cluster with different views to the red one. 
+BLUE: is also a more political cluster with different views to the red one. 
 #tstandsforterrorist, #genderdysphoriaisanillness, #redflagtrans, #2ashallnotbeinfinged, #timburchette, #backtheblue, #transgenderproblems, #notthegunsfault
 #liberalsmustgo, #liberalhypocrisy,#liberalismisacult, #liberalismisamentaldisorder, #democratsaredestroyingamerica This cluster is typically pro gun and anti liberal which opposes the red cluster. 
  #genderaffrimingcare and #mentalhealthawareness again seem out of place in the context of the other blue tweets but we cannot tell the context of these tweets and thereby cannot be sure if they align with the opinions of the cluster or not. 
 
 
 
-Green: is also political and typically pro gun control and critiques of the republican party. 
+GREEN: is also political and typically pro gun control and critiques of the republican party. 
 #anothershooting, #itsthegunsandtherepublicans, #banar15s, #stop, #gopdomesticterrorists, #saveourchildren, #gunsafteynow, #yourchildcouldbenext
 #itsthegunsstupid which seems to be a direct response to the hashtag from thew blue cluster #notthegunsfault
 
 
 
-Turquoise: does not seem to have a political leaning or stance on gun voilence but is more about themes of religion and charity. Notably, not just christianity is mentioned. 
+TURQUOISE: does not seem to have a political leaning or stance on gun voilence but is more about themes of religion and charity. Notably, not just christianity is mentioned. 
 #bible, #pray, #christian, #jesusislord, #ramadan, #jesus, #christianity, #givingtuesday
 
 
 
-Purple: contains a range of hastags but many of them are references to other shootings that have occurred.
+PURPLE: contains a range of hastags but many of them are references to other shootings that have occurred.
 #buffalomassacre, #parklandmassacre, #virginashooting, #columbine, #elpasoshooting, #dadeville, #sandyhook
 
 
