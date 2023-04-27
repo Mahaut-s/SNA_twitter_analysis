@@ -1,7 +1,15 @@
 # Twitter Analysis
 
 
+ANALYSIS : 
+The results of the Louvain method does not show a direct polarization of opinions but rather a collection of different clusters. Some of these clusters lean towards a pro or anti gun stance while others clusters have no poitical opinions yet other themes can still be identified within them. 
 
+Notably, even the political clusters are not entierley unanimous in their leaning and have hashtags within them that seem misplaced in relation to the general sentiments of the hashtags in that cluster. This may however be due to tweets which support one opinion but point to the hypocrisy of other opinions or use the hashtags of these other opinions ironically.
+
+Red: One of the more prominent hashtags: 
+#guncontrol, #guncontrolnow, #enoughisenough, #stopmassshooting, #assultweaponban, #secureourschools, #gundlawssavelives
+#goplovesgunsmorethanourkids, #gopdoesnotcareifkidsdie, #gopisnottheprolifepartytheyareprodgundeath these all refer to the grand old part, synonymous with the republican party. As this cluster also has hashtags which encourage gun control and ban of weapons, one can assume that those who tend to be critical of the republican party will also be for gun laws. This will often be those who vote democrat due to americas two party system.
+#prolife seems odd in the context but may be calling out hypocrisies of republicans who will often make prolife arguments in relation to abortion but not in relation to guncontrol. 
 
 
 
