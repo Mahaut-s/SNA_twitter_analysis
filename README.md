@@ -8,7 +8,9 @@ Notably, even the political clusters are not entierley unanimous in their leanin
 
 Red: One of the more prominent hashtags: 
 #guncontrol, #guncontrolnow, #enoughisenough, #stopmassshooting, #assultweaponban, #secureourschools, #gundlawssavelives
+
 #goplovesgunsmorethanourkids, #gopdoesnotcareifkidsdie, #gopisnottheprolifepartytheyareprodgundeath these all refer to the grand old part, synonymous with the republican party. As this cluster also has hashtags which encourage gun control and ban of weapons, one can assume that those who tend to be critical of the republican party will also be for gun laws. This will often be those who vote democrat due to americas two party system.
+
 #prolife seems odd in the context but may be calling out hypocrisies of republicans who will often make prolife arguments in relation to abortion but not in relation to guncontrol. 
 
 
