@@ -16,6 +16,8 @@ Red: One of the more prominent hashtags:
 
 #prolife seems odd in the context but may be calling out hypocrisies of republicans who will often make prolife arguments in relation to abortion but not in relation to guncontrol. 
 
+
+
 Blue: is also a more political cluster with different views to the red one. 
 #tstandsforterrorist, #genderdysphoriaisanillness, #redflagtrans, #2ashallnotbeinfinged, #timburchette, #backtheblue, #transgenderproblems, #notthegunsfault
 #liberalsmustgo, #liberalhypocrisy,#liberalismisacult, #liberalismisamentaldisorder, #democratsaredestroyingamerica This cluster is typically pro gun and anti liberal which opposes the red cluster. 
@@ -23,6 +25,22 @@ Blue: is also a more political cluster with different views to the red one.
 
 
 
+Green: is also political and typically pro gun control and critiques of the republican party. 
+#anothershooting, #itsthegunsandtherepublicans, #banar15s, #stop, #gopdomesticterrorists, #saveourchildren, #gunsafteynow, #yourchildcouldbenext
+#itsthegunsstupid which seems to be a direct response to the hashtag from thew blue cluster #notthegunsfault
+
+
+
+Turquoise: does not seem to have a political leaning or stance on gun voilence but is more about themes of religion and charity. Notably, not just christianity is mentioned. 
+#bible, #pray, #christian, #jesusislord, #ramadan, #jesus, #christianity, #givingtuesday
+
+
+
+Purple: contains a range of hastags but many of them are references to other shootings that have occurred.
+#buffalomassacre, #parklandmassacre, #virginashooting, #columbine, #elpasoshooting, #dadeville, #sandyhook
+
+
+Some clusters have seeminly nothing to do with the theme of gunvoilence but concern other relevant topics such as #nft or #ukraine. This may be linked to social media culture and an attempt to gain exposure through trending hashtags despite their relevance to the topic of the tweet. 
 
 
 
@@ -30,7 +48,7 @@ Blue: is also a more political cluster with different views to the red one.
 
 
 
-CONCLUSION :
+CONCLUSION
 
 
 In conclusion, this analysis can’t show polarization but helps us to identify how people are talking about a recent mass shooting. To do so, we use the Louvain community iGraph algorithm that allows us to identify clusters with mostly pro-gun control tweets and to some extent anti-gun control tweets.
