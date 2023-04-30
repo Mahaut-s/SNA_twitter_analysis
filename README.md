@@ -35,11 +35,10 @@ GREEN: is also political and typically pro gun control and critiques of the repu
 #anothershooting, #itsthegunsandtherepublicans, #banar15s, #stop, #gopdomesticterrorists, #saveourchildren, #gunsafteynow, #yourchildcouldbenext
 #itsthegunsstupid which seems to be a direct response to the hashtag from thew blue cluster #notthegunsfault
 
-
+![SNA Final group project (3)-1](https://user-images.githubusercontent.com/130977434/235373968-ce0486b5-599e-478d-8df7-51d6b9764296.png)
 
 TURQUOISE: does not seem to have a political leaning or stance on gun voilence but is more about themes of religion and charity. Notably, not just christianity is mentioned. 
 #bible, #pray, #christian, #jesusislord, #ramadan, #jesus, #christianity, #givingtuesday
-
 
 
 PURPLE: contains a range of hastags but many of them are references to other shootings that have occurred.
