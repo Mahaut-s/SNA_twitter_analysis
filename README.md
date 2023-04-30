@@ -1,5 +1,10 @@
 # Twitter Analysis
+INTRODUCTION
+Mass shootings are a serious and ongoing issue in many countries, and they often lead to heated debates and discussions around gun control measures. That's why we decided to analyse one specific shooting, the one that unfortunately happened in Nashville, Tennessee on the last 27th of March of the current year 2023; specifically in the Covenant school.
 
+This event went viral on social media platforms, like Twitter, which actually offers an opportunity to examine these discussions and to gain insight into public opinion on the matter. In this project we conducted an analysis on Twitter using hashtags to identify how people were talking about the Covenant school shooting. 
+
+We also applied the Louvain Method, which is a community detection algorithm that uses modularity optimization to identify clusters or communities in networks.Thus, we used it in order to identify clusters of tweets that are predominantly Pro or Anti-gun control with the goal of seeing if there is any polarization in public opinion
 
 ANALYSIS 
 
