@@ -22,7 +22,7 @@ RED: One of the more prominent hashtags:
 
 #prolife seems odd in the context but may be calling out hypocrisies of republicans who will often make prolife arguments in relation to abortion but not in relation to guncontrol. 
 
-
+![SNA Final group project (1)-1](https://user-images.githubusercontent.com/130977434/235373450-4628c2f3-3aeb-4c1f-8fd1-06f21977d9ab.png)
 
 BLUE: is also a more political cluster with different views to the red one. 
 #tstandsforterrorist, #genderdysphoriaisanillness, #redflagtrans, #2ashallnotbeinfinged, #timburchette, #backtheblue, #transgenderproblems, #notthegunsfault
