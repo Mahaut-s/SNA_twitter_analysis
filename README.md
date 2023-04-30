@@ -40,6 +40,8 @@ GREEN: is also political and typically pro gun control and critiques of the repu
 TURQUOISE: does not seem to have a political leaning or stance on gun voilence but is more about themes of religion and charity. Notably, not just christianity is mentioned. 
 #bible, #pray, #christian, #jesusislord, #ramadan, #jesus, #christianity, #givingtuesday
 
+![SNA Final group project (4)-1](https://user-images.githubusercontent.com/130977434/235374134-729becbc-ab8e-461d-987b-5aa21fe4ccca.png)
+
 
 PURPLE: contains a range of hastags but many of them are references to other shootings that have occurred.
 #buffalomassacre, #parklandmassacre, #virginashooting, #columbine, #elpasoshooting, #dadeville, #sandyhook
