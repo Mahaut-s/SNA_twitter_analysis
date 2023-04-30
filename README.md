@@ -12,6 +12,7 @@ The results of the Louvain method does not show a direct polarization of opinion
 
 Notably, even the political clusters are not entierley unanimous in their leaning and have hashtags within them that seem misplaced in relation to the general sentiments of the hashtags in that cluster. This may however be due to tweets which support one opinion but point to the hypocrisy of other opinions or use the hashtags of these other opinions ironically.
 
+![SNA Final group project-1](https://user-images.githubusercontent.com/130977434/235372823-53755950-5a2b-4ec5-bd60-80c3f4cb8df5.png)
 
 
 RED: One of the more prominent hashtags: 
