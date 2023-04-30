@@ -46,6 +46,8 @@ TURQUOISE: does not seem to have a political leaning or stance on gun voilence b
 PURPLE: contains a range of hastags but many of them are references to other shootings that have occurred.
 #buffalomassacre, #parklandmassacre, #virginashooting, #columbine, #elpasoshooting, #dadeville, #sandyhook
 
+![SNA Final group project (5)-1](https://user-images.githubusercontent.com/130977434/235374352-cd833826-b189-4654-ba65-fefdc0dffdb6.png)
+
 
 Some clusters have seeminly nothing to do with the theme of gunvoilence but concern other relevant topics such as #nft or #ukraine. This may be linked to social media culture and an attempt to gain exposure through trending hashtags despite their relevance to the topic of the tweet. 
 
