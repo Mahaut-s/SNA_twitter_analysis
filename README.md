@@ -29,7 +29,7 @@ BLUE: is also a more political cluster with different views to the red one.
 #liberalsmustgo, #liberalhypocrisy,#liberalismisacult, #liberalismisamentaldisorder, #democratsaredestroyingamerica This cluster is typically pro gun and anti liberal which opposes the red cluster. 
  #genderaffrimingcare and #mentalhealthawareness again seem out of place in the context of the other blue tweets but we cannot tell the context of these tweets and thereby cannot be sure if they align with the opinions of the cluster or not. 
 
-
+![SNA Final group project (2)-1](https://user-images.githubusercontent.com/130977434/235373770-0b785e81-c0ef-4a5e-9615-458cd01df7df.png)
 
 GREEN: is also political and typically pro gun control and critiques of the republican party. 
 #anothershooting, #itsthegunsandtherepublicans, #banar15s, #stop, #gopdomesticterrorists, #saveourchildren, #gunsafteynow, #yourchildcouldbenext
