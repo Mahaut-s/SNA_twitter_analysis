@@ -6,6 +6,26 @@ This event went viral on social media platforms, like Twitter, which actually of
 
 We also applied the Louvain Method, which is a community detection algorithm that uses modularity optimization to identify clusters or communities in networks.Thus, we used it in order to identify clusters of tweets that are predominantly Pro or Anti-gun control with the goal of seeing if there is any polarization in public opinion
 
+METHOD ＆ PROCESS
+There are two key points about the clustering method: first, how the clusters are defined, and second, how they are calculated.
+
+First, clusters are defined using Modularity, an index of cluster quality calculated from the formula like this, as we learned from Newman and Girvan's paper in class. In this formula, the red part is the actual percentage of edges in a given cluster, and the green part is the percentage of edges in a random graph.
+
+画像
+
+So, what is the best way to actually detect communities using Modularity?　There are several methods for community detection: the Girvan-Newman method, which removes edges that are likely to be present in a cluster in a top-down fashion; the Newman method, which improves modularity from the bottom-up; the CNM method, which speeds up the Newman method by introducing heaps and using heuristics; and the Louvain method, which computes only between close nodes. Here, we decided to use the Louvain method, which is the least computationally intensive, fastest, and most accurate.
+
+Based on these premises, here is the actual process.
+Step 1, Scraping tweets
+Here, we scraped 5000 tweets by referencing 30,000 tweets under certain conditions using the neutral and frequently used tag #NashvilleCovenantSchool.
+
+Step 2, Building reply network
+After that, we built a reply network and were able to visualize it based on the following four indicators.
+
+And finally, Step 3, Building semantic network
+In this step, we built a network in which we could see the relationship between hashtags. Using the Louvain method described earlier, we were able to detect several communities and analyze each of them.
+
+
 ANALYSIS 
 
 The results of the Louvain method does not show a direct polarization of opinions but rather a collection of different clusters. Some of these clusters lean towards a pro or anti gun stance while others clusters have no poitical opinions yet other themes can still be identified within them. 
