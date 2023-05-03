@@ -9,7 +9,7 @@ We also applied the Louvain Method, which is a community detection algorithm tha
 METHOD ＆ PROCESS
 There are two key points about the clustering method: first, how the clusters are defined, and second, how they are calculated.
 
-First, clusters are defined using Modularity, an index of cluster quality calculated from the formula like this, as we learned from Newman and Girvan's paper in class. In this formula, the red part is the actual percentage of edges in a given cluster, and the green part is the percentage of edges in a random graph.
+First, clusters are defined using Modularity, an index of cluster quality calculated from the formula like this, as we learned from Newman and Girvan's paper in class(Newman & Girvan, 2004). In this formula, the red part is the actual percentage of edges in a given cluster, and the green part is the percentage of edges in a random graph.
 
 <img width="391" alt="SNA_github" src="https://user-images.githubusercontent.com/116076364/235864065-f5c565a9-9127-4fda-877e-bad644079b3d.png">
 
