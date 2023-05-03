@@ -11,7 +11,7 @@ There are two key points about the clustering method: first, how the clusters ar
 
 First, clusters are defined using Modularity, an index of cluster quality calculated from the formula like this, as we learned from Newman and Girvan's paper in class. In this formula, the red part is the actual percentage of edges in a given cluster, and the green part is the percentage of edges in a random graph.
 
-画像
+<img width="391" alt="SNA_github" src="https://user-images.githubusercontent.com/116076364/235864065-f5c565a9-9127-4fda-877e-bad644079b3d.png">
 
 So, what is the best way to actually detect communities using Modularity?　There are several methods for community detection: the Girvan-Newman method, which removes edges that are likely to be present in a cluster in a top-down fashion; the Newman method, which improves modularity from the bottom-up; the CNM method, which speeds up the Newman method by introducing heaps and using heuristics; and the Louvain method, which computes only between close nodes. Here, we decided to use the Louvain method, which is the least computationally intensive, fastest, and most accurate.
 
