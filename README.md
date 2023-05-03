@@ -1,12 +1,12 @@
 # Twitter Analysis
-INTRODUCTION
+**INTRODUCTION**
 Mass shootings are a serious and ongoing issue in many countries, and they often lead to heated debates and discussions around gun control measures. That's why we decided to analyse one specific shooting, the one that unfortunately happened in Nashville, Tennessee on the last 27th of March of the current year 2023; specifically in the Covenant school.
 
 This event went viral on social media platforms, like Twitter, which actually offers an opportunity to examine these discussions and to gain insight into public opinion on the matter. In this project we conducted an analysis on Twitter using hashtags to identify how people were talking about the Covenant school shooting. 
 
 We also applied the Louvain Method, which is a community detection algorithm that uses modularity optimization to identify clusters or communities in networks.Thus, we used it in order to identify clusters of tweets that are predominantly Pro or Anti-gun control with the goal of seeing if there is any polarization in public opinion
 
-METHOD ＆ PROCESS
+**METHOD ＆ PROCESS**
 There are two key points about the clustering method: first, how the clusters are defined, and second, how they are calculated.
 
 First, clusters are defined using Modularity, an index of cluster quality calculated from the formula like this, as we learned from Newman and Girvan's paper in class(Newman & Girvan, 2004). In this formula, the red part is the actual percentage of edges in a given cluster, and the green part is the percentage of edges in a random graph.
@@ -26,7 +26,7 @@ And finally, Step 3, Building semantic network
 In this step, we built a network in which we could see the relationship between hashtags. Using the Louvain method described earlier, we were able to detect several communities and analyze each of them.
 
 
-ANALYSIS 
+**ANALYSIS**
 
 The results of the Louvain method does not show a direct polarization of opinions but rather a collection of different clusters. Some of these clusters lean towards a pro or anti gun stance while others clusters have no poitical opinions yet other themes can still be identified within them. 
 
@@ -74,12 +74,7 @@ Some clusters have seeminly nothing to do with the theme of gunvoilence but conc
 
 
 
-
-
-
-CONCLUSION
-
-
+**CONCLUSION**
 In conclusion, this analysis can’t show polarization but helps us to identify how people are talking about a recent mass shooting. To do so, we use the Louvain community iGraph algorithm that allows us to identify clusters with mostly pro-gun control tweets and to some extent anti-gun control tweets.
 
 To further analyze our results, we compare them to existing surveys which were made by experts using machine learning to analyze reactions on Twitter about the Sandy Hook Elementary school shooting (Wang, N., Varghese, B., & Donnelly, P. (2017). A Machine Learning Analysis of Twitter Sentiment to the Sandy Hook Shootings. ) We can notice the recurrences of some hashtags on Twitter after a mass shooting like #PrayFor  or #guncontrol  that builds a social media culture that automatically give people some conventions while expressing their emotions after an act of violence.
